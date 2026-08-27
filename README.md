@@ -62,7 +62,7 @@ Dependencies
 Python 3.9+
 pandas, numpy, matplotlib, seaborn
 scikit-learn, xgboost, imbalanced-learn
-shap, streamlit, joblib
+shap, streamlit, joblib  
 
 ## Author
 Kartik Sharma
