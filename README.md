@@ -64,3 +64,5 @@ pandas, numpy, matplotlib, seaborn
 scikit-learn, xgboost, imbalanced-learn
 shap, streamlit, joblib
 
+## Author
+Kartik Sharma
