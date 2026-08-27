@@ -1,4 +1,37 @@
-data/
+# Python
 __pycache__/
-*.joblib
-*.ipynb_checkpoints/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model artifacts
+models/*.joblib
+models/*.pkl
+models/*.bin
+
+# Large datasets
+data/*.csv
+data/*.zip
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
